@@ -1,5 +1,3 @@
-Keep up your persistence!
-You got this!
-Create what you want, dont overthink, trust your gut!
-Another wonderful day. 
-Learning just in time! Think about it...
+1. Plan your time and prioritize it at home as at work you can't really predict downtime thus you can't reliably predict how much time you have for studying at work.
+2. Set alarm for 11:30 catch up with Joseph
+3. Practice git 
