@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-where will I merge?
-=======
 where will it merge ?
->>>>>>> structure
+where will I merge?
