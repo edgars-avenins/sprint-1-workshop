@@ -1,3 +1,5 @@
+Reflections
+1.
 Faster once you get the hang of it. But takes time to get used to as instead of usual GUI you have text and commands.
 - just because something looks nicer doesnt mean it's the most effective way to do it.
 
@@ -16,3 +18,13 @@ git branch "branch name"
 git checkout "branch name"
 
 I learned that there are a lot of hidden shortcuts through flags -"x"
+
+2.
+
+git is a tool and github is a service, they dont neceserely mean that you have to use them togehter but its a popular combination
+
+bus card - snapper and snapper reader. You can use your snapper on more than just buses and same goes for bus readers - they dont just read snapper cards
+
+I might remembmer most of the core things as there were few I had to really wrap my mind around, I find that these stick with me better
+
+This time I think I managed to stick to time constraints pretty well, mainly because I skimmed over information that I was familiar with and concentrated on topics that required more information.
