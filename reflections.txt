@@ -1,0 +1,18 @@
+Faster once you get the hang of it. But takes time to get used to as instead of usual GUI you have text and commands.
+- just because something looks nicer doesnt mean it's the most effective way to do it.
+
+Hard to stick to them while aiming for results you expect from yourself. I might try to play around less and stay on the path
+as playing around caused problems and these problems took a bit longer then expected to deal with
+
+Started out with- git clone "URL" - get the remote repo locally
+touch "filename.type" - create a file
+start "filename.type" (TAB for quick finish ofcourse)
+git add -A   - add all changes
+git commit -m "message"  - prepare these changes
+git push  - send them to remote repo
+
+git checkout -b "branch name" is same as
+git branch "branch name"
+git checkout "branch name"
+
+I learned that there are a lot of hidden shortcuts through flags -"x"
