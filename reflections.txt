@@ -31,3 +31,8 @@ This time I think I managed to stick to time constraints pretty well, mainly bec
 
 3.
 
+It's a work flow that allows tracking your changes and reviewing previous versions in an easy way as well as allows multiple users work simultaneously on the same project and allows them to bring it all together in such a way that it actually works.
+
+Read a bit of documentation, made sure to put down notes of how I understand commands, tried out these commands checked status all the time. 
+
+Try drawing a scheme of how files travel with git commands
