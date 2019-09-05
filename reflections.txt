@@ -36,3 +36,11 @@ It's a work flow that allows tracking your changes and reviewing previous versio
 Read a bit of documentation, made sure to put down notes of how I understand commands, tried out these commands checked status all the time. 
 
 Try drawing a scheme of how files travel with git commands
+
+4. 
+
+I will compare staging and committing to putting together your IKEA table. 
+You got all your parts ready you put together small bits into bigger bits and you add them together that's staging now you wanna come it and see if it's looking alright
+see you put them together even more if something is wrong you can always take a stepback fix it and then commit again. 
+That's a rough comparison of how git version control works on files
+You change them add them to bunch about to be saved and if necessary go back. Like using undo button in word or other programs. 
