@@ -1,2 +1,1 @@
-where will it merge ?
-where will I merge?
+I think I'm starting to understand how this branching and merging works

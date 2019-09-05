@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Structure to follow
-=======
+
 Start drawing ideas about blog
 HTML structure
 CSS miracles
->>>>>>> structure

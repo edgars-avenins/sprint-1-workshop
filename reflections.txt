@@ -28,3 +28,6 @@ bus card - snapper and snapper reader. You can use your snapper on more than jus
 I might remembmer most of the core things as there were few I had to really wrap my mind around, I find that these stick with me better
 
 This time I think I managed to stick to time constraints pretty well, mainly because I skimmed over information that I was familiar with and concentrated on topics that required more information.
+
+3.
+
