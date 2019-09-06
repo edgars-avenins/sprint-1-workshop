@@ -27,11 +27,13 @@ bus card - snapper and snapper reader. You can use your snapper on more than jus
 
 I might remembmer most of the core things as there were few I had to really wrap my mind around, I find that these stick with me better
 
-This time I think I managed to stick to time constraints pretty well, mainly because I skimmed over information that I was familiar with and concentrated on topics that required more information.
+This time I think I managed to stick to time constraints pretty well, mainly because
+I skimmed over information that I was familiar with and concentrated on topics that required more information.
 
 3.
 
-It's a work flow that allows tracking your changes and reviewing previous versions in an easy way as well as allows multiple users work simultaneously on the same project and allows them to bring it all together in such a way that it actually works.
+It's a work flow that allows tracking your changes and reviewing previous versions in an easy way as well as
+allows multiple users to work simultaneously on the same project and allows them to bring it all together in such a way that it actually works.
 
 Read a bit of documentation, made sure to put down notes of how I understand commands, tried out these commands checked status all the time. 
 
@@ -44,3 +46,15 @@ You got all your parts ready you put together small bits into bigger bits and yo
 see you put them together even more if something is wrong you can always take a stepback fix it and then commit again. 
 That's a rough comparison of how git version control works on files
 You change them add them to bunch about to be saved and if necessary go back. Like using undo button in word or other programs. 
+
+5.
+
+Master is what is supposed to be the best version of your code it is the one that follows the best practices that has no bugs in it and it's working.
+Master is also what is the base version because any features and experiments you will be creating by branching of the master branch.
+
+A branch is pretty much how the project is going to move forward,branch is going to be tested we want to make sure that it's running smoothly and as intended,
+once we are sure about it it's going to be merged into master thus becoming the master branch so step by step by bigger or smaller branches we grow our master branch
+
+I think that these things explained around master and branching are quite easily to understand it's more about once you actually start to use them
+and you run in those cases that we're not explained and if you fail to get the behaviour you expect that's a bit more challenging to understand what is going on.
+But other than that the whole concept master and branch is pretty straightforward. 
